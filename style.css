@@ -46,7 +46,8 @@
     .navlist>li>a {text-decoration: none;
     text-transform: uppercase;
     color: white;
-    margin-right: 20px;
+    margin-right: 10px;
+    font-size: 12px;
     transition: 1s ease-in-out;}
     
     .navlist>li>a:hover{color: gold;
