@@ -384,7 +384,7 @@ color: white;}
         
     }
     
-    @media screen and (max-width:860px) and (min-width:480px){
+    @media screen and (max-width:1000px) and (min-width:480px){
         label #btn{display: block;}
 
 
