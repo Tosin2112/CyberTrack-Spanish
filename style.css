@@ -277,7 +277,6 @@ color: white;}
     
     input{margin-bottom: 20px;
     width: 70%;
-    border-radius: 10px;
     padding: 0 10px;
     height: 30px;
     outline: none;
@@ -286,7 +285,6 @@ color: white;}
     textarea{margin-bottom: 20px;
         width: 70%;
         height: 150px;
-        border-radius: 10px;
         padding: 10px 10px;
         outline: none;
         border-color:transparent;}
