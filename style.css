@@ -75,6 +75,7 @@ text-decoration: none;}
     #check {display:none;}
         
     .showcase{background-color:rgb(6, 11, 11) ;
+        width:100%;
     padding: 70px 30px;
     display: flex;
     justify-content: space-between;}
